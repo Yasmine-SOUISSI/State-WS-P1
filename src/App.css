@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.Undone {
+  text-decoration: none;
+  color:red
+}
+
+.Done {
+  color: green;
+  text-decoration: line-through;
+}
